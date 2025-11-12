@@ -38,15 +38,6 @@ Hosted at a world-renowned hub of quantum excellence — home to **Nobel laureat
 
 ---
 
-### 🧩 Sample Schedule — Day 1: *Introduction to Quantum Computing*
-
-| Time | Session | Speaker |
-|------|----------|----------|
-| 08:45–09:00 | Opening Session | — |
-| 09:00–10:00 | Introduction to Quantum Computing | **Ben Lau (Xanadu)** |
-| 10:00–12:15 | Hands-on: Getting Started with Qiskit | — |
-| 13:30–15:30 | Variational Algorithms (Lecture + Practice) | **Monalisa Singh Roy (Planqc)** |
-| 16:45–17:45 | ZX-calculus & Quantum Error-Correcting Codes | **Massinissa Zenia (University of Brest)** |
 
 ☕ *Coffee breaks and lunch provided on-site.*
 
