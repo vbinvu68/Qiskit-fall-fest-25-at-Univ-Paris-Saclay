@@ -37,11 +37,6 @@ Hosted at a world-renowned hub of quantum excellence — home to **Nobel laureat
 
 ---
 
-
-☕ *Coffee breaks and lunch provided on-site.*
-
----
-
 ## 🎤 Featured Speakers
 
 | Speaker | Affiliation | Talk |
