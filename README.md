@@ -17,7 +17,6 @@ Hosted at a world-renowned hub of quantum excellence — home to **Nobel laureat
 - 🧩 Hands-on Qiskit workshops  
 - 💡 Hackathons  
 - 🏢 Industry talks & research panels  
-- 🔬 Lab visits  
 - 🤝 Networking sessions  
 - 🎯 Career development discussions  
 
@@ -30,11 +29,11 @@ Hosted at a world-renowned hub of quantum excellence — home to **Nobel laureat
 
 | Day | Date | Theme |
 |-----|------|--------|
-| **Day 1** | Monday, Nov 17 | Qiskit Basics |
-| **Day 2** | Tuesday, Nov 18 | Error Mitigation |
-| **Day 3** | Wednesday, Nov 19 | Industry Day |
+| **Day 1** | Monday, Nov 17 | Qiskit Basics & Variational Algorithms |
+| **Day 2** | Tuesday, Nov 18 | Error Mitigation & Correction |
+| **Day 3** | Wednesday, Nov 19 | Industry Day & Careers |
 | **Day 4** | Thursday, Nov 20 | Quantum Machine Learning |
-| **Day 5** | Friday, Nov 21 | Hackathon & Careers |
+| **Day 5** | Friday, Nov 21 | Hackathon |
 
 ---
 
@@ -88,7 +87,6 @@ Hosted at a world-renowned hub of quantum excellence — home to **Nobel laureat
 ✅ Free Registration  
 ✅ Hands-on Qiskit Workshops  
 ✅ Industry & Research Talks  
-✅ Lab Visits  
 ✅ Networking Sessions  
 ✅ Career Guidance  
 
