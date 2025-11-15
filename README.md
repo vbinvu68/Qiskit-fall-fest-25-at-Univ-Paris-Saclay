@@ -47,8 +47,7 @@ Hosted at a world-renowned hub of quantum excellence — home to **Nobel laureat
 | **Leonardo Disilvestro** | Entropica Labs | *Loom Design – The Quantum Error Correction Lab* |
 | **Wang Xiaoyang** | iTHEMS, RIKEN | *Extracting particle mass on quantum computers:State preparation and ancilla-free measurement*|
 | **Li Tianyin** | iTHEMS, RIKEN | *Quantum simulations of non-perturbative quantities in hadron scattering*.|
-| **Harshit Verma** | Entropica Labs | *Loom Design – The Quantum Error Correction Lab* |
-| **Leonardo Disilvestro** |  MajuLab | *How to optimize energy consumption of VQE?* |
+| **Harshit Verma** | MajuLab | *How to optimize energy consumption of VQE?* |
 ---
 
 ## 👥 Organizing Team
