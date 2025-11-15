@@ -45,7 +45,10 @@ Hosted at a world-renowned hub of quantum excellence — home to **Nobel laureat
 | **Jacob L. Cybulski** | Enquanted (Australia) | *Exploring Quantum Machine Learning (with Qiskit)* |
 | **Jesus Sanchez Herrero** | C12 | *The Material Revolution: Carbon Nanotubes as a Road to FTQC* |
 | **Leonardo Disilvestro** | Entropica Labs | *Loom Design – The Quantum Error Correction Lab* |
-
+| **Wang Xiaoyang** | iTHEMS, RIKEN | *Extracting particle mass on quantum computers:State preparation and ancilla-free measurement*|
+| **Li Tianyin** | iTHEMS, RIKEN | *Quantum simulations of non-perturbative quantities in hadron scattering*.|
+| **Harshit Verma** | Entropica Labs | *Loom Design – The Quantum Error Correction Lab* |
+| **Leonardo Disilvestro** |  MajuLab | *How to optimize energy consumption of VQE?* |
 ---
 
 ## 👥 Organizing Team
@@ -54,7 +57,7 @@ Hosted at a world-renowned hub of quantum excellence — home to **Nobel laureat
 |------|--------------------|
 | **Dr. Van Binh Vu** | Team Leader • Quantum Algorithm Scientist • Univ. Paris-Saclay & CEA |
 | **Mamlouk Mohamed** | PhD Student • C2N, CNRS |
-| **Muna Numan** | Rhodes Scholar • MSc Quantum Technology, University of Oxford |
+| **Muna Numan** | MSc Quantum Technology, University of Oxford . Rhodes Scholar|
 | **Ziwoong (Jim) Jang** | PhD Candidate • Qiskit Advocate • KAIST |
 | **Viet-Anh Tran** | PhD Student • University of Louvain, Belgium |
 | **Rudraksh Sharma** | Qiskit Advocate • MSc Physics, NSUT Delhi |
