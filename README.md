@@ -45,9 +45,22 @@ Hosted at a world-renowned hub of quantum excellence — home to **Nobel laureat
 | **Jacob L. Cybulski** | Enquanted (Australia) | *Exploring Quantum Machine Learning (with Qiskit)* |
 | **Jesus Sanchez Herrero** | C12 | *The Material Revolution: Carbon Nanotubes as a Road to FTQC* |
 | **Leonardo Disilvestro** | Entropica Labs | *Loom Design – The Quantum Error Correction Lab* |
-| **Wang Xiaoyang** | iTHEMS, RIKEN | *Extracting particle mass on quantum computers:State preparation and ancilla-free measurement*|
-| **Li Tianyin** | iTHEMS, RIKEN | *Quantum simulations of non-perturbative quantities in hadron scattering*.|
+| **Wang Xiaoyang** | iTHEMS, RIKEN | *Extracting particle mass on quantum computers: State preparation and ancilla-free measurement* |
+| **Li Tianyin** | iTHEMS, RIKEN | *Quantum simulations of non-perturbative quantities in hadron scattering* |
 | **Harshit Verma** | MajuLab | *How to optimize energy consumption of VQE?* |
+| **Étienne Parizot** | Université Paris Cité | *Quantum Mechanics Foundations* |
+| **Maxence Grandadam** | Haiqu | *Noise & Error Mitigation* |
+| **Ziwoong Jang** | KAIST | *Hands-on: Getting Started with Qiskit* |
+| **Rudraksh Sharma** | NSUT Delhi | *Noise & Error Mitigation (Hands-on)* |
+| **Monalisa Singh Roy** | Planqc | *Hiking the Quantum Landscape: VQE, QAOA, Counterdiabatic Corrections, and Portfolio Optimization* |
+| **Guillermo Muñoz** | Alice & Bob | *Quantum Error Correction with Cat Qubits* |
+| **Muna Numan** | University of Oxford | *Quantum Error Correction (Hands-on)* |
+| **Pierre Jaeger** | IBM Quantum | *IBM’s Hardware & Roadmap* |
+| **Mamdouh Abbara** | Alice & Bob | *Efficient Quantum Computing Hardware* |
+| **Massissina Zeina** | University of Brest | *Application of ZX-Calculus to Quantum Error Correction Codes* |
+| **Nouhaila Imnan** | NYU Abu Dhabi | *Introduction to Quantum Machine Learning and Its Applications* |
+| **Catalina Albornoz** | Xanadu | *Introduction to PennyLane* |
+| **Catalina Albornoz (Panel)** | Xanadu | *Careers in Quantum (Panel Discussion)* |
 ---
 
 ## 👥 Organizing Team
